@@ -2,7 +2,7 @@
   "name": "pixcasso",
   "version": "0.0.1",
   "description": "Generative code art lib",
-  "main": "index.js",
+  "main": "dist/lib/index.js",
   "repository": "git@github.com:GregoryCaldeira/pixcasso.git",
   "author": "Gregory Caldeira <geral.gcaldeira@gmail.com>",
   "license": "MIT",
