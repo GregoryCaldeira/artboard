@@ -6,8 +6,5 @@
   "repository": "git@github.com:GregoryCaldeira/pixcasso.git",
   "author": "Gregory Caldeira <geral.gcaldeira@gmail.com>",
   "license": "MIT",
-  "private": false,
-  "devDependencies": {
-    "typescript": "^5.2.2"
-  }
+  "private": false
 }
