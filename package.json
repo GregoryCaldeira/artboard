@@ -1,5 +1,5 @@
 {
-  "name": "artboard",
+  "name": "@GregoryCaldeira/artboard",
   "version": "0.0.1",
   "description": "Create an environment to create generative art pieces",
   "main": "dist/lib/index.js",
